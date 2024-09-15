@@ -38,7 +38,7 @@ The backend includes:
 
    ```bash
    git clone https://github.com/your-username/sanfi.git
-   cd server/
+   cd SANFI PAY
    ```
 
 ### Frontend Setup
