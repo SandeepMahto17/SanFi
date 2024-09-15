@@ -48,11 +48,9 @@ The backend includes:
 cd ../DemoEcommerce
 Install Dependencies
 ````
-bash
 ```bash 
 npm install
 ````
-
 Run the development server:
 
 ```bash 
