@@ -42,18 +42,20 @@ The backend includes:
    ```
 
 ### Frontend Setup
-1. **Navigate to the Frontend Directory**
 
-```bash 
-cd ../DemoEcommerce
-````
-2. **Install Dependencies**
-```bash 
-npm install
-````
-3. **Run the development server:**
-
-```bash 
-npm run dev 
-````
+   1. **Navigate to the Frontend Directory**
+   
+   ```bash 
+   cd ../DemoEcommerce
+   ````
+   2. **Install Dependencies**
+      
+   ```bash 
+   npm install
+   ````
+   3. **Run the development server:**
+   
+   ```bash 
+   npm run dev 
+   ````
    
