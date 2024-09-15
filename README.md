@@ -1,13 +1,13 @@
 # Sanfi
 
-Sanfi is an e-commerce platform integrated with real-time cryptocurrency payment capabilities. It leverages the Solana blockchain for cryptocurrency transactions and PayPal for converting crypto payments into the merchant’s preferred currency.
+SanFi – a revolutionary payment solution that allows users to pay with Solana directly on any e-commerce platform. With SanFi, the Solana stays in your crypto account, while the merchant receives fiat instantly into their bank account.
 
 ## Features
 
-- **Real-Time Cryptocurrency Payments:** Facilitates payments using Solana blockchain.
-- **Direct Merchant Payments:** Ensures payments are made directly to the merchant's PayPal account.
-- **Currency Conversion:** Converts cryptocurrency into the merchant's preferred currency.
-- **User-Friendly Payment Integration:** Seamlessly integrates cryptocurrency payments into the e-commerce checkout process.
+- **Seamless Crypto-to-Fiat Payments:** Enable users to make direct cryptocurrency payments to any e-commerce website, even if the merchant doesn't accept crypto.
+- **One-Click Payment:** With a single click, users can complete their purchases on almost any online store
+- **Currency Conversion:** Converts cryptocurrency into the merchant's preferred fiat currency.
+- **Fast and Secure:** Transactions are completed within seconds, leveraging blockchain technology for speed and security, making crypto payments as easy as traditional methods.
 
 ## Project Structure
 
@@ -15,7 +15,7 @@ The project consists of the following main components:
 
 1. **Frontend** - A complete e-commerce website with integrated payment functionality.
 2. **Backend** - A Django-based API to handle payment processing.
-3. **Wallet Integration** - Uses Solana for managing cryptocurrency payments.
+3. **Wallet Integration** - Uses Phantom for managing cryptocurrency payments.
 
 ### Backend
 
