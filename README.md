@@ -40,7 +40,7 @@ The backend includes:
    git clone https://github.com/SandeepMahto17/SanFi.git
    cd SANFI PAY
    ```
-2. **Install Requiremenst**
+2. **Install Requirements**
    
    ```bash
    cd server
@@ -56,7 +56,7 @@ The backend includes:
    1. **Navigate to the Frontend Directory**
    
    ```bash 
-   cd ../DemoEcommerce
+   cd ./DemoEcommerce
    ````
    2. **Install Dependencies**
       
