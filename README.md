@@ -5,7 +5,7 @@ SanFi – a revolutionary payment solution that allows users to pay with Solana 
 ## Features
 
 - **Seamless Crypto-to-Fiat Payments:** Enable users to make direct cryptocurrency payments to any e-commerce website, even if the merchant doesn't accept crypto.
-- **One-Click Payment:** With a single click, users can complete their purchases on almost any online store
+- **One-Click Payment:** With a single click, users can complete their purchases on almost any online store.
 - **Currency Conversion:** Converts cryptocurrency into the merchant's preferred fiat currency.
 - **Fast and Secure:** Transactions are completed within seconds, leveraging blockchain technology for speed and security, making crypto payments as easy as traditional methods.
 
