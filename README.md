@@ -43,8 +43,8 @@ The backend includes:
 2. **Install Requiremenst**
    
    ```bash
-      cd server
-      pip install -r requirements.txt
+   cd server
+   pip install -r requirements.txt
    ```
    
 ### Frontend Setup
