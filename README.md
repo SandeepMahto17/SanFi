@@ -9,7 +9,9 @@ SanFi – a revolutionary payment solution that allows users to pay with Solana 
 - **Currency Conversion:** Converts cryptocurrency into the merchant's preferred fiat currency.
 - **Fast and Secure:** Transactions are completed within seconds, leveraging blockchain technology for speed and security, making crypto payments as easy as traditional methods.
 
-![Sanfi GIF](https://github.com/SandeepMahto17/SanFi/raw/main/DemoEcommerce/src/Images/logos/Sanfivid.gif)
+<p align="center">
+   ![Sanfi GIF](https://github.com/SandeepMahto17/SanFi/raw/main/DemoEcommerce/src/Images/logos/Sanfivid.gif)
+</p>
 
 ## Project Structure
 
