@@ -40,7 +40,13 @@ The backend includes:
    git clone https://github.com/SandeepMahto17/SanFi.git
    cd SANFI PAY
    ```
-
+2. **Install Requiremenst**
+   
+   ```bash
+      cd server
+      pip install -r requirements.txt
+   ```
+   
 ### Frontend Setup
 
    1. **Navigate to the Frontend Directory**
