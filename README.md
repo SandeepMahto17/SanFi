@@ -42,7 +42,7 @@ The backend includes:
 
    ```bash
    git clone https://github.com/SandeepMahto17/SanFi.git
-   cd SANFI PAY
+   cd SanFi
    ```
 2. **Install Requirements**
    
