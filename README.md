@@ -46,6 +46,10 @@ The backend includes:
    cd server
    pip install -r requirements.txt
    ```
+3. **Run the Development Server**
+   ```bash
+   python manage.py runserver
+   ```
    
 ### Frontend Setup
 
