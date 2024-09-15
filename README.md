@@ -1,6 +1,6 @@
 # Sanfi
 
-SanFi – a revolutionary payment solution that allows users to pay with Solana directly on any e-commerce platform. With SanFi, users can pay Solana from their crypto account, while the merchant receives fiat currency instantly into their bank account.
+SanFi – a revolutionary payment solution that allows users to pay with Solana directly on any transaction platform. With SanFi, users can pay Solana from their crypto account, while the merchant receives fiat currency instantly into their bank account.
 
 ## Features
 
