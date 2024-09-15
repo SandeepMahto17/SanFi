@@ -1,0 +1,81 @@
+/* ProgressBarModal.css */
+
+/* Container for progress bar */
+.progress-bar-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Each progress step (circle + line) */
+.progress-step-wrapper {
+  display: flex;
+  flex-direction: column; /* Vertical stacking */
+  align-items: center;
+  flex: 1;
+  position: relative;
+}
+
+/* Circle for each step */
+.circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #ddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  color: #333;
+  position: relative;
+  z-index: 1;
+}
+
+.completed .circle {
+  background-color: #4CAF50;
+  color: rgb(141, 213, 121);
+}
+
+/* Tick mark */
+.tick {
+  color: green;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.number {
+  color: #333;
+}
+
+/* Line between circles */
+.line {
+  position: absolute;
+  top: 20%;
+  left:100%;
+  transform: translateX(-50%) translateY(-50%); /* Positioning adjustment */
+  height: 6px;
+  background-color: #ddd;
+  z-index: 0;
+}
+
+/* Dynamic width of the line between circles */
+.progress-step-wrapper:not(:last-child) .line {
+  width: calc(100%); /* Extend from middle of circle to middle of next circle */
+}
+
+.line.filled {
+  background-color: #4CAF50;
+}
+
+/* Adjust line placement for the first circle */
+.progress-step-wrapper:first-child .line {
+  width: calc(100%); /* Extend to the middle of the next circle */
+  left: 100%; /* Start line from the right edge of the first circle */
+}
+
+.label {
+  margin-top: 20px;
+  font-size: 14px;
+  text-align: center;
+}

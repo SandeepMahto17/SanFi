@@ -1,0 +1,41 @@
+/* Custom styles for the button */
+.custom-gradient-btn {
+    background: linear-gradient(to right, #ffffff, #d1d5db, #e5e7eb);
+    border: 2px solid #ffffff;
+    color: black;
+    padding: 0.5rem 1rem; /* Adjust padding as needed */
+    border-radius: 0.25rem; /* Rounded corners */
+    transition: background 0.3s, color 0.3s;
+    display: flex;
+    justify-content: center;
+
+  }
+ 
+  
+  .custom-gradient-btn:hover {
+    background: linear-gradient(to right, #6b7280, #374151, #111827);
+    color: #ffffff;
+    border-color: #ffffff;
+  }
+  
+  .modal-header {
+    border-bottom: none;
+  }
+  
+  /* Remove border from the modal body */
+  .modal-body {
+    border: none;
+  }
+  
+  /* Remove border from the modal footer */
+  .modal-footer {
+    border-top: none;
+    display: flex;
+    justify-content: center;
+  }
+
+  .custom-modal-title {
+    font-size: 2rem; /* Adjust size as needed */
+    font-weight: bold; /* Optional: Makes the text bold */
+  }
+  
