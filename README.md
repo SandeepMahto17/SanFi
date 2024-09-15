@@ -37,7 +37,7 @@ The backend includes:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/sanfi.git
+   git clone https://github.com/SandeepMahto17/SanFi.git
    cd SANFI PAY
    ```
 
